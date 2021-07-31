@@ -39,9 +39,9 @@ Akun.
 
 • Music dan tgvc adalah seputar bot dan userbot yang di gunakan untuk menghibur warga telegram dengan pesan bersuara!
   
- 🐱 Channel Update : [Channel Update](https://t.me/MusicPr0jEctTElegram)
- ⚡️𝙍𝙀𝙋𝙊 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡️ : [King-Userbot](https://github.com/apisuserbot/King-Userbot)
- 🤖 Pemilik : [MR.404](https://t.me/PacarFerdilla)
+ 🐱 Channel Update : [Channel Update](https://t.me/SadRoomsInfo)
+ ⚡️Github⚡️ : [King-Userbot](https://github.com/ridho17-ind)
+ 🤖 Pemilik : [Skyzo](https://t.me/XFLSkyzo)
 
 # License
 
@@ -68,4 +68,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ## Kredit 
    TERIMAKASIH KEPADA 🙏
   
-*   [dashezup](https://github.com/dashezup) - tgvc-userbot
+*   [Dashezup](https://github.com/dashezup) - tgvc-userbot
+*   [Apis](https://github.com/apisuserbot) - tgvc-King
