@@ -76,10 +76,10 @@ __dimulai dengan ! (tanda seru)__
 \u2022 `!unmute`  aktifkan robot pengguna VC
 """
 
-USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat King**
+USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat Flicks**
 
-- ⚡️𝙍𝙀𝙋𝙊 𝙂𝙄𝙏𝙃𝙐𝘽⚡️: [Repo](https://github.com/apisuserbot/tgvc-King)
-- ⚡️𝙇𝙄𝘾𝙀𝙉𝙎𝙀⚡️: AGPL-3.0-or-later"""
+- Repository: [Repo](https://github.com/ridho17-ind/Tgvc-XBot)
+- License: AGPL-3.0-or-later"""
 
 
 # - Pyrogram filters
